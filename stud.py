@@ -1,0 +1,3 @@
+class LoggableList(Loggable,list):
+    
+
